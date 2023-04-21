@@ -49,3 +49,6 @@ GraphOS is a web-based network graph visualization tool built using Dash, a Pyth
 - NetworkX: https://networkx.github.io/
 - Plotly: https://plotly.com/
 - Pandas: https://pandas.pydata.org/
+
+
+![Demo GIF](2.gif)
